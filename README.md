@@ -1,3 +1,10 @@
+Program to detect plates on images with ocr.
+
+in project was use yolo
+
+
+
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
