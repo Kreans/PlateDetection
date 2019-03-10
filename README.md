@@ -1,6 +1,6 @@
 Program to detect plates on images with ocr.
 
-in project was use yolo
+in project was used yolov2
 
 
 
