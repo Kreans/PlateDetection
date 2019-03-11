@@ -1,6 +1,6 @@
 Program to detect plates on images with ocr.
 
-in project was used yolov2
+in project was used yolov2 (which source code was a bit modified and i wrote some new scripts in python)
 
 
 
